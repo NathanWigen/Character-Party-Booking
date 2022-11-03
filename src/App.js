@@ -1,6 +1,6 @@
 import "./App.css";
 import React from "react";
-import { BrowserRouter as Router, Route, Redirect } from "react-router-dom";
+import { BrowserRouter as Route, Redirect } from "react-router-dom";
 
 import Layout from "./Componets/Layout/Layout";
 
