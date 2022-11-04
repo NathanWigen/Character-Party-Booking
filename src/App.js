@@ -1,6 +1,6 @@
 import "./App.css";
 import React from "react";
-import { BrowserRouter as Route, Redirect } from "react-router-dom";
+import { BrowserRouter as Route} from "react-router-dom";
 
 import Layout from "./Componets/Layout/Layout";
 
@@ -10,9 +10,6 @@ function App() {
   return (
     <Layout>
       <main>
-        <Route path="/" exact>
-          <Redirect to="/home" />
-        </Route>
         <Route>
           <Home />
         </Route>
