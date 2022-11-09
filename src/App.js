@@ -9,7 +9,7 @@ import Home from "./Pages/Home/Home";
 function App() {
   return (
     <Layout>
-      <main>
+      <main className="app-main">
         <Route>
           <Home />
         </Route>

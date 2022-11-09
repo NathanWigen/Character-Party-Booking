@@ -123,58 +123,17 @@ export default function Home() {
             </div>
             <div className="about-us-story">
               <p className="about-us-p">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                Egestas maecenas pharetra convallis posuere morbi. Hac habitasse
-                platea dictumst quisque sagittis purus sit. Sed blandit libero
-                volutpat sed cras. Vitae purus faucibus ornare suspendisse sed.
-                A erat nam at lectus urna duis convallis convallis. Urna
-                condimentum mattis pellentesque id. Et malesuada fames ac turpis
-                egestas sed. Sodales ut eu sem integer vitae justo eget. Sed
-                odio morbi quis commodo. Neque volutpat ac tincidunt vitae
-                semper quis lectus. Viverra nam libero justo laoreet sit amet.
-                Auctor elit sed vulputate mi sit. Pellentesque nec nam aliquam
-                sem et tortor. Risus nullam eget felis eget. Euismod nisi porta
-                lorem mollis aliquam ut porttitor. Nunc sed velit dignissim
-                sodales. Leo in vitae turpis massa sed elementum. Massa massa
-                ultricies mi quis hendrerit dolor magna. Tincidunt tortor
-                aliquam nulla facilisi cras fermentum odio. Turpis massa
-                tincidunt dui ut. Egestas pretium aenean pharetra magna ac
-                placerat. Scelerisque in dictum non consectetur a erat nam at.
-                Pulvinar elementum integer enim neque volutpat ac tincidunt
-                vitae semper. Cras adipiscing enim eu turpis egestas pretium
-                aenean pharetra magna. Amet consectetur adipiscing elit ut
-                aliquam purus. Scelerisque varius morbi enim nunc faucibus a
-                pellentesque sit amet. Id porta nibh venenatis cras. Dignissim
-                enim sit amet venenatis urna. Eros in cursus turpis massa
-                tincidunt dui. Integer eget aliquet nibh praesent tristique. Sit
-                amet nulla facilisi morbi tempus iaculis. Tortor id aliquet
-                lectus proin nibh nisl condimentum. Senectus et netus et
-                malesuada fames ac turpis egestas. Pellentesque habitant morbi
-                tristique senectus. Sagittis eu volutpat odio facilisis mauris
-                sit amet. Arcu vitae elementum curabitur vitae nunc. Mi in nulla
-                posuere sollicitudin aliquam ultrices. Purus ut faucibus
-                pulvinar elementum integer enim neque volutpat. Facilisi nullam
-                vehicula ipsum a. Enim tortor at auctor urna nunc. Etiam sit
-                amet nisl purus in mollis nunc. Non quam lacus suspendisse
-                faucibus. Amet consectetur adipiscing elit ut aliquam purus sit
-                amet. Eu turpis egestas pretium aenean pharetra magna ac. Id
-                diam vel quam elementum pulvinar etiam. Gravida rutrum quisque
-                non tellus orci ac auctor augue mauris. Fringilla phasellus
-                faucibus scelerisque eleifend donec pretium. Convallis tellus id
-                interdum velit laoreet id. Bibendum arcu vitae elementum
-                curabitur vitae nunc sed. Condimentum lacinia quis vel eros
-                donec ac odio tempor. Lacinia quis vel eros donec ac odio tempor
-                orci. Magna eget est lorem ipsum dolor. Quam viverra orci
-                sagittis eu. Lorem dolor sed viverra ipsum nunc aliquet bibendum
-                enim. Parturient montes nascetur ridiculus mus mauris vitae. A
-                arcu cursus vitae congue mauris rhoncus aenean vel. Ullamcorper
-                malesuada proin libero nunc consequat. Neque convallis a cras
-                semper auctor. Sollicitudin aliquam ultrices sagittis orci a
-                scelerisque. Vel elit scelerisque mauris pellentesque pulvinar
-                pellentesque habitant morbi tristique. Egestas egestas fringilla
-                phasellus faucibus scelerisque eleifend donec pretium. Nisi quis
-                eleifend quam adipiscing vitae proin sagittis nisl rhoncus.
+                From Dream Come True -Character Parties llc "Dream Come True
+                -Character Parties LLC is a Children's Entertainment Company.
+                Invite your child's favorite princess or character and make
+                their birthday dreams come true! From balloon twisting, face
+                painting, magic tricks, song and dance -your child will never
+                forget their "special day!" Brought to you by a team of
+                performers who never forgot the magic of being a child! We are a
+                licensed and insured LLC and we do more than birthday parties.
+                Just send a request for your next children's event.. We make
+                party planning easy. As our slogan says.... "You bring the cake
+                and the guests & let US do the rest!""
               </p>
             </div>
           </div>
