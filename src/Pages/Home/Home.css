@@ -149,6 +149,7 @@
   place-items: center;
   width: 800px;
   margin-top: 10px;
+  margin-left: -8px;
 }
 
 .div1 {
@@ -177,6 +178,14 @@
 }
 .div9 {
   grid-area: 3 / 3 / 4 / 4;
+}
+
+.disclaimer-container{
+  width: 100vw;
+}
+
+.disclaimer{
+  font-size: .9rem;
 }
 
 @media screen and (max-width: 767px) {

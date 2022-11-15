@@ -138,6 +138,14 @@ export default function Home() {
             </div>
           </div>
         </section>
+        <div className="disclaimer-container">
+          <p className="disclaimer">
+            We are not affiliated with Disney and any and all characters that
+            we offer are unique and original characters with their own
+            independent backstories and names. Any resemblance seen to any
+            outside characters is merely assumption by the viewer.
+          </p>
+        </div>
       </div>
     </div>
   );
