@@ -115,6 +115,7 @@
 
 .about-section {
   display: flex;
+  margin-left: 10px;
 }
 
 .about-us-story-container {
@@ -182,6 +183,7 @@
 
 .disclaimer-container{
   width: 100vw;
+  margin-left: 10px;
 }
 
 .disclaimer{

@@ -12,7 +12,7 @@ import IMAGE9 from "../../Assets/about-photos/About-photo-9.jpeg";
 
 export default function Home() {
   return (
-    <div>
+    <>
       <div className="home-container">
         <section className="home-section-left">
           <div className="home-title-container">
@@ -41,7 +41,7 @@ export default function Home() {
           </div>
         </section>
       </div>
-      <div>
+      <>
         <section className="about-section">
           <div className="about-photos">
             <div class="div1">
@@ -146,7 +146,7 @@ export default function Home() {
             outside characters is merely assumption by the viewer.
           </p>
         </div>
-      </div>
-    </div>
+      </>
+    </>
   );
 }

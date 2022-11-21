@@ -1,0 +1,13 @@
+.characters-container{
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+
+.characters-image{
+
+}
+
+.characters-name{
+  align-items: center;
+}
