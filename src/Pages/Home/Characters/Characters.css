@@ -1,13 +1,27 @@
-.characters-container{
-  display: flex;
-  flex-direction: column;
-  margin: 10px;
+.character-row{
+  content: "";
+  clear: both;
+  display: table;
 }
 
-.characters-image{
-
+.characters-container {
+  margin-left: 10px;
+  margin-top: 10px;
+  position: relative;
+  float: left;
+  width: 30%;
+  padding: 5px;
 }
 
-.characters-name{
-  align-items: center;
+.characters-image {
+}
+
+.characters-name {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
 }

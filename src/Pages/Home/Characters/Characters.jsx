@@ -4,7 +4,7 @@ import characterData from "../../../Data/CharactersData";
 
 export default function Characters() {
   return (
-    <>
+    <div className="character-row">
       {characterData.map((data, index) => (
         <div className="characters-container" key={index}>
           <img
@@ -17,6 +17,6 @@ export default function Characters() {
           <p className="characters-name">{data.name}</p>
         </div>
       ))}
-    </>
+    </div>
   );
 }
