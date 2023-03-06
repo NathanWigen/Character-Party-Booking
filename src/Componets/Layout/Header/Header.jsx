@@ -1,24 +1,26 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import classes from './Header.module.css'
+import './Header.css'
 
-export default function Header() {
+const Header = () => {
   return (
-    <header className={classes.header}>
-      <nav>
-        <ul>
-          <li>
-            <NavLink activeClassName={classes.active} to="/">
-              Home
-            </NavLink>
-          </li>
-          <li>
-            <NavLink activeClassName={classes.active} to="/characters">
-              Characters
-            </NavLink>
-          </li>
-        </ul>
-      </nav>
-    </header>
+    <nav className="header-wrapper">
+      <div className="logo">
+        <NavLink to="/" className="brand">
+          Dream Come True
+        </NavLink>
+      </div>
+      <div className="nav-wrapper">
+        <div className="navigation">
+          <NavLink to="/">
+            About
+          </NavLink>
+          <NavLink to="/characters">
+            Charcters
+          </NavLink>
+        </div>
+      </div>
+    </nav>
   );
-}
+};
+export default Header;

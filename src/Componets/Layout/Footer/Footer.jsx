@@ -1,18 +1,19 @@
 import React from "react";
+import './Footer.css'
 
 export default function Footer() {
   return (
-    <footer>
-      <div>
-        <p>Call:</p>
-        <p>(541) 301-7448</p>
+    <footer className="footer">
+      <div className="footer-phone"> 
+        <p className="phone-number">Call: (541) 301-7448</p>
+        {/* <p className="phone-number">(541) 301-7448</p> */}
       </div>
-      <div>
-        <p>Email:</p>
-        <p>Dctc.Parties@gmail.com</p>
+      <div className="footer-email">
+        <p className="email">Email: Dctc.Parties@gmail.com</p>
+        {/* <p>Dctc.Parties@gmail.com</p> */}
       </div>
-      <div>
-        <p>Follow Us</p>
+      <div className="footer-socials">
+        <p className="socials">Follow Us</p>
         <p></p>
       </div>
     </footer>

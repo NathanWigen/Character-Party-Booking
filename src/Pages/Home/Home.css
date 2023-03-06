@@ -10,13 +10,13 @@
 .home-section-left {
   width: 50vw;
   height: 80vh;
-  background: rgb(68, 176, 0);
   background: linear-gradient(
     150deg,
     rgba(68, 176, 0, 1) 0%,
     rgba(221, 88, 0, 1) 32%,
     rgba(226, 0, 255, 1) 100%
   );
+  border: 1px solid #ccc;
 }
 
 .home-section-right {
@@ -26,6 +26,7 @@
   background-size: cover;
   background-position: top;
   position: relative;
+  border: 1px solid #ccc;
 }
 
 .home-title-container {
@@ -188,6 +189,7 @@
 
 .disclaimer{
   font-size: .9rem;
+  font-style: italic;
 }
 
 @media screen and (max-width: 767px) {
@@ -201,12 +203,6 @@
     width: 100vw;
     height: 80vh;
     background: rgb(68, 176, 0);
-    background: linear-gradient(
-      150deg,
-      rgba(68, 176, 0, 1) 0%,
-      rgba(221, 88, 0, 1) 32%,
-      rgba(226, 0, 255, 1) 100%
-    );
   }
 
   .home-section-right {
@@ -359,5 +355,6 @@
   
   .disclaimer{
     font-size: .5rem;
+    font-style: italic;
   }
 }

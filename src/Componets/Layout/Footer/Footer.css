@@ -1,0 +1,33 @@
+.footer{
+  bottom: 0;
+  left: 0;
+  width: 100vw;
+  height: 90px;
+  background: linear-gradient(
+    150deg,
+    rgba(68, 176, 0, 1) 0%,
+    rgba(221, 88, 0, 1) 32%,
+    rgba(226, 0, 255, 1) 100%
+  );
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.phone-number{
+  font-family: "Chelsea Market", cursive;
+  color: #fff;
+  font-size: 20px;
+}
+
+.email{
+  font-family: "Chelsea Market", cursive;
+  color: #fff;
+  font-size: 20px;
+}
+
+
+.socials{
+  font-family: "Chelsea Market", cursive;
+  color: #fff;
+  font-size: 20px;
+}
