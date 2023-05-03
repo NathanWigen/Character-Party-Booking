@@ -1,50 +1,51 @@
 const characterData = [
   {
     src:
-      "https://i.imgur.com/R80igcf.jpg",
+      "https://i.imgur.com/MjtMLZn.jpg",
     alt: "Snow Queen",
     name: "Snow Queen",
   },
   {
     src:
-      "https://i.imgur.com/VS8y1pK.jpg",
+      "https://i.imgur.com/MjtMLZn.jpg",
       alt: "Snow Princess",
       name: "Snow Princess",
   },
   {
     src:
-      "https://i.imgur.com/VS8y1pK.jpg",
+      "https://i.imgur.com/MjtMLZn.jpg",
       alt: "Snow Princess",
       name: "Snow Princess",
   },
   {
     src:
-      "https://i.imgur.com/VS8y1pK.jpg",
+      "https://i.imgur.com/MjtMLZn.jpg",
       alt: "Snow Princess",
       name: "Snow Princess",
   },
   {
     src:
-      "https://i.imgur.com/VS8y1pK.jpg",
+      "https://i.imgur.com/MjtMLZn.jpg",
       alt: "Snow Princess",
       name: "Snow Princess",
   },
   {
     src:
-      "https://i.imgur.com/VS8y1pK.jpg",
+      "https://i.imgur.com/MjtMLZn.jpg",
       alt: "Snow Princess",
       name: "Snow Princess",
   },  {
     src:
-      "https://i.imgur.com/VS8y1pK.jpg",
+      "https://i.imgur.com/MjtMLZn.jpg",
       alt: "Snow Princess",
       name: "Snow Princess",
   },  {
     src:
-      "https://i.imgur.com/VS8y1pK.jpg",
+      "https://i.imgur.com/MjtMLZn.jpg",
       alt: "Snow Princess",
       name: "Snow Princess",
   },
 ];
-
+//Photo by Lydia Turner from Unsplash
+  
 export default characterData

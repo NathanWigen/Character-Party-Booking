@@ -1,14 +1,9 @@
 import React from "react";
 import "./Home.css";
-import IMAGE1 from "../../Assets/about-photos/About-photo-1.jpeg";
-import IMAGE2 from "../../Assets/about-photos/About-photo-2.jpeg";
-import IMAGE3 from "../../Assets/about-photos/About-photo-3.jpeg";
-import IMAGE4 from "../../Assets/about-photos/About-photo-4.jpeg";
-import IMAGE5 from "../../Assets/about-photos/About-photo-5.jpeg";
-import IMAGE6 from "../../Assets/about-photos/About-photo-6.jpeg";
-import IMAGE7 from "../../Assets/about-photos/About-photo-7.jpeg";
-import IMAGE8 from "../../Assets/about-photos/About-photo-8.jpeg";
-import IMAGE9 from "../../Assets/about-photos/About-photo-9.jpeg";
+//Photo by Lydia Turner from Unsplash
+import IMAGE1 from "../../Assets/about-photos/photo.jpg";
+
+
 
 export default function Home() {
   return (
@@ -16,28 +11,25 @@ export default function Home() {
       <div className="home-container">
         <section className="home-section-left">
           <div className="home-title-container">
-            <h1 className="home-title-h1">Dream Come True</h1>
-            <h3 className="home-title-h3">Character Parties LLC.</h3>
+            <h1 className="home-title-h1">Character Party Booking</h1>
+            <h3 className="home-title-h3">Character Parties</h3>
           </div>
           <div className="home-hero-container">
             <p className="home-hero-p1">
               Call to book your awesome Character Party!!
             </p>
             <p className="home-hero-p2">
-              Make Magical Memories for your little one by inviting your little
-              one's favorite princesses, superheros and other fun loving
-              characters to join them on their birthday.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquet risus feugiat in ante metus dictum at. A iaculis at erat pellentesque.
             </p>
             <h4 className="home-hero-h4">
-              We are booking in Medford, Klamath Falls and all surrounding
-              areas.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
             </h4>
           </div>
         </section>
         <section className="home-section-right">
           <div className="home-contact-container">
-            <p className="home-contact-phone">Phone: (541) 301-7448</p>
-            <p className="home-contact-email">Email: Dctc.Parties@gmail.com</p>
+            <p className="home-contact-phone">Phone: (202)-555-0183</p>
+            <p className="home-contact-email">Email: Charcterpartys@gmail.com</p>
           </div>
         </section>
       </div>
@@ -54,7 +46,7 @@ export default function Home() {
             </div>
             <div class="div2">
               <img
-                src={IMAGE2}
+                src={IMAGE1}
                 alt="ice princess"
                 width="250px"
                 height="300px"
@@ -62,7 +54,7 @@ export default function Home() {
             </div>
             <div class="div3">
               <img
-                src={IMAGE3}
+                src={IMAGE1}
                 alt="ice-princess"
                 width="250px"
                 height="300px"
@@ -70,7 +62,7 @@ export default function Home() {
             </div>
             <div class="div4">
               <img
-                src={IMAGE4}
+                src={IMAGE1}
                 alt="ice-princess"
                 width="250px"
                 height="300px"
@@ -78,7 +70,7 @@ export default function Home() {
             </div>
             <div class="div5">
               <img
-                src={IMAGE5}
+                src={IMAGE1}
                 alt="ice-princess"
                 width="250px"
                 height="300px"
@@ -86,7 +78,7 @@ export default function Home() {
             </div>
             <div class="div6">
               <img
-                src={IMAGE6}
+                src={IMAGE1}
                 alt="ice-princess"
                 width="250px"
                 height="300px"
@@ -94,7 +86,7 @@ export default function Home() {
             </div>
             <div class="div7">
               <img
-                src={IMAGE7}
+                src={IMAGE1}
                 alt="ice-princess"
                 width="250px"
                 height="300px"
@@ -102,7 +94,7 @@ export default function Home() {
             </div>
             <div class="div8">
               <img
-                src={IMAGE8}
+                src={IMAGE1}
                 alt="ice-princess"
                 width="250px"
                 height="300px"
@@ -110,7 +102,7 @@ export default function Home() {
             </div>
             <div class="div9">
               <img
-                src={IMAGE9}
+                src={IMAGE1}
                 alt="ice-princess"
                 width="250px"
                 height="300px"
@@ -123,27 +115,14 @@ export default function Home() {
             </div>
             <div className="about-us-story">
               <p className="about-us-p">
-                From Dream Come True -Character Parties llc "Dream Come True
-                -Character Parties LLC is a Children's Entertainment Company.
-                Invite your child's favorite princess or character and make
-                their birthday dreams come true! From balloon twisting, face
-                painting, magic tricks, song and dance -your child will never
-                forget their "special day!" Brought to you by a team of
-                performers who never forgot the magic of being a child! We are a
-                licensed and insured LLC and we do more than birthday parties.
-                Just send a request for your next children's event.. We make
-                party planning easy. As our slogan says.... "You bring the cake
-                and the guests & let US do the rest!""
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam etiam erat velit scelerisque. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Leo urna molestie at elementum eu facilisis sed odio morbi. Porttitor leo a diam sollicitudin tempor id eu. Massa tempor nec feugiat nisl pretium fusce id velit ut. Urna nec tincidunt praesent semper feugiat nibh sed.
               </p>
             </div>
           </div>
         </section>
         <div className="disclaimer-container">
           <p className="disclaimer">
-            We are not affiliated with Disney and any and all characters that
-            we offer are unique and original characters with their own
-            independent backstories and names. Any resemblance seen to any
-            outside characters is merely assumption by the viewer.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Porttitor eget dolor morbi non arcu risus.
           </p>
         </div>
       </>

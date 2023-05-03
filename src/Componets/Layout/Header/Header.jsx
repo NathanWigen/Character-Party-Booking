@@ -7,7 +7,7 @@ const Header = () => {
     <nav className="header-wrapper">
       <div className="logo">
         <NavLink to="/" className="brand">
-          Dream Come True
+          Character Party Booking
         </NavLink>
       </div>
       <div className="nav-wrapper">
