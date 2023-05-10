@@ -27,10 +27,17 @@
 
 .navigation,
 .navigation a,
-.navigation a:hover, .navigation a:focus{
+.navigation a:hover,
+.navigation a:focus {
   color: #fff;
   padding: 5px 10px;
   text-decoration: none;
   font-size: 20px;
   font-family: "Chelsea Market", cursive;
+}
+
+@media screen and (max-width: 767px) {
+.brand{
+  font-size: 30px;
+}
 }
