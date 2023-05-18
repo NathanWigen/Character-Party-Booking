@@ -1,8 +1,8 @@
 .header-wrapper {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   position: relative;
-  padding: 2rem;
+  padding: 0 1rem 1rem 2em;
   font-size: 15px;
   background: linear-gradient(
     150deg,
@@ -16,6 +16,7 @@
   text-align: center;
   align-items: center;
   color: #fff;
+  width: 100vw;
 }
 
 .brand {
